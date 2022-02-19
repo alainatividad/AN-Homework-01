@@ -1,3 +1,3 @@
-# AN-Homework-01
+# Horiseon-Code Refactoring
 
-Fullstack Bootcamp Homework 1
+Refactoring an exisitng site to make it more accessible so that people with disabilities can access the website better.
