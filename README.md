@@ -16,4 +16,4 @@ Visit [this](https://github.com/alainatividad/Horiseon-Web-Code-Refactoring-Repo
 
 ## Website
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/images/website.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/website.png)
