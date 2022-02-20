@@ -104,15 +104,6 @@ footer {
   margin-left: 25px;
   max-height: 200px;
 }
-
-.content section {
-  background-color: #0072bb;
-  color: #ffffff;
-  height: 300px;
-  margin-bottom: 20px;
-  padding: 50px;
-}
-
 .benefits {
   background-color: #2589bd;
   clear: both;
@@ -123,6 +114,16 @@ footer {
   width: 20%;
 }
 
+/* CONTENT SECTIONS */
+.content section {
+  background-color: #0072bb;
+  color: #ffffff;
+  height: 300px;
+  margin-bottom: 20px;
+  padding: 50px;
+}
+
+/* BENEFITS SECTIONS */
 .benefits section {
   color: #ffffff;
   margin-bottom: 32px;
