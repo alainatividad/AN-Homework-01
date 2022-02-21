@@ -8,7 +8,7 @@ In this project, this was done by modifying the HTML elements to their semantic 
 
 ## Demo
 
-Visit [this](https://github.com/alainatividad/Horiseon-Web-Code-Refactoring-Repository/deployments/activity_log?environment=github-pages) to see the webpage in action.
+Visit [this](https://alainatividad.github.io/Horiseon-Web-Code-Refactoring-Repository/) to see the webpage in action.
 
 ## Website
 
